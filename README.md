@@ -1,7 +1,7 @@
 # Hi, I'm Anna 👋
 
 ## 🚀 About Me
-- Second-year student at [**Innopolis University**](https://innopolis.university/en/)
+- Third-year student at [**Innopolis University**](https://innopolis.university/en/)
 - Specializing in **Data Science**
 - Member of the [**one-zero-eight**](https://github.com/one-zero-eight) community
 
