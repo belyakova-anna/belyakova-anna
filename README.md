@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=79c0ff&center=true&vCenter=true&width=640&height=44&lines=A%20tech%20geek%20trying%20to%20explore%20everything" alt="Typing headlines" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=79c0ff&center=true&vCenter=true&width=640&height=44&lines=A%20tech%20geek%20trying%20to%20explore%20everything" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=0969da&center=true&vCenter=true&width=640&height=44&lines=A%20tech%20geek%20trying%20to%20explore%20everything" alt="Typing headlines" />
+  </picture>
 </p>
 
 ### 🚀 About Me
