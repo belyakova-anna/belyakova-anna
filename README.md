@@ -44,13 +44,12 @@ Innopolis University final year student. Fullstack developer.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=belyakova-anna&show_icons=true&theme=tokyonight&title_color=a371f7&icon_color=79c0ff&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=belyakova-anna&layout=compact&theme=tokyonight&title_color=a371f7&icon_color=79c0ff&text_color=c9d1d9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-rose-nine-12.vercel.app/api?username=belyakova-anna&show_icons=true&theme=tokyonight&title_color=a371f7&icon_color=79c0ff&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-rose-nine-12.vercel.app/api/top-langs/?username=belyakova-anna&layout=compact&theme=tokyonight&title_color=a371f7&icon_color=79c0ff&text_color=c9d1d9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=belyakova-anna&bg_color=00000000&color=c9d1d9&line=a371f7&point=79c0ff&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-ten-dusky.vercel.app/graph?username=belyakova-anna&bg_color=00000000&color=c9d1d9&line=a371f7&point=79c0ff&area=true&hide_border=true" alt="activity graph" />
 </p>
-
