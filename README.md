@@ -15,9 +15,9 @@
 
 Innopolis University final year student. Fullstack developer.
 
-🔭 &nbsp;I'm currently working on **reinforcement learning with noisy rewards**  
-💬 &nbsp;Ask me about **hackathons, open source, and learning new things**  
-⚡ I use Arch btw
+🔭 &nbsp;I'm currently working on **reinforcement learning with noisy rewards**.  
+💬 &nbsp;Ask me about **hackathons, open source, and learning new things**.  
+⚡ I use Arch btw.
 
 ### 🛠️ Tech Stack
 
